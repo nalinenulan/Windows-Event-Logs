@@ -1,4 +1,4 @@
-# Windows EventLogs
+# Windows Event Logs
 
 <h2>Description</h2>
 This project involves a deliberate exploration of the security implications associated with turning off the Windows firewall. The individual conducting the experiment created an attacker machine on a separate server and attempted unauthorized access to a Windows Virtual Machine (VM) using incorrect credentials. The primary objective was to assess the significance of firewalls in preventing unauthorized access and protecting against potential attackers.
